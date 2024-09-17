@@ -70,3 +70,4 @@ res_filename = "prediction_results.csv"
 ds_pred.to_csv(res_filename, index=False)
 
 print(f"Done!\nResults saved to '{res_filename}' in column predicted_price." )
+

@@ -48,3 +48,6 @@ cat_columns = ['Company',
                'SecondaryStorageType',
                'GPU_company', 
                'GPU_model',]
+
+
+
